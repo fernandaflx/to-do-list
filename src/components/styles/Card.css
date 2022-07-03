@@ -1,0 +1,11 @@
+.card {
+  height: 60px;
+  width: 50%;
+  background: #A06AF1;
+  color: #fff;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 24px;
+}/*# sourceMappingURL=Card.css.map */
